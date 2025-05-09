@@ -90,7 +90,7 @@ Me chamo Wellyton Valmor Vettori e atualmente estou cursando Sistemas para Inter
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
 />
 
-<br><br><br>
+---
 
 <p align="center">
   <img 
