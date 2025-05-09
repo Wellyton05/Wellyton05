@@ -25,7 +25,6 @@ Olá! Me chamo **Wellyton Valmor Vettori** e atualmente estou cursando **Sistema
   </a>
 </p>
 
----
 
 ### 🧠 Linguagens e Tecnologias
 
