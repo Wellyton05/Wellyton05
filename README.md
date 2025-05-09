@@ -40,7 +40,7 @@ Olá! Me chamo **Wellyton Valmor Vettori** e atualmente estou cursando **Sistema
 
 
 ### 🐍 Contribuições 
-
+<br></br>
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/wellyton05/wellyton05/output/github-contribution-grid-snake-dark.svg?palette=github-dark" 
