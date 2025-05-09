@@ -90,6 +90,7 @@ Me chamo Wellyton Valmor Vettori e atualmente estou cursando Sistemas para Inter
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
 />
 
+<br></br>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wellyton05/wellyton05/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wellyton05/wellyton05/output/github-contribution-grid-snake-dark.svg">
