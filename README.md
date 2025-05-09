@@ -38,9 +38,8 @@ Olá! Me chamo **Wellyton Valmor Vettori** e atualmente estou cursando **Sistema
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" style="margin-right: 10px;" />
 </p>
 
-
+<!--
 ### 🐍 Contribuições 
-<br></br>
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/wellyton05/wellyton05/output/github-contribution-grid-snake-dark.svg?palette=github-dark" 
