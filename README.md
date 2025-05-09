@@ -4,7 +4,6 @@
 
 Olá! Me chamo **Wellyton Valmor Vettori** e atualmente estou cursando **Sistemas para Internet** na **Universidade do Vale do Itajaí (UNIVALI)**. Sou um entusiasta da tecnologia e um desenvolvedor em formação com paixão por transformar ideias em soluções funcionais e acessíveis — principalmente na web.
 
----
 
 ### 📬 Contato
 
@@ -39,9 +38,8 @@ Olá! Me chamo **Wellyton Valmor Vettori** e atualmente estou cursando **Sistema
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" style="margin-right: 10px;" />
 </p>
 
----
 
-### 🐍 Contribuições no GitHub
+### 🐍 Contribuições 
 
 <p align="center">
   <img 
